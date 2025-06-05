@@ -1,0 +1,75 @@
+{
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "text": "¿Cuál de las siguientes descripciones caracteriza mejor al principio de testing 'Paradoja del pesticida'?",
+        "options": [
+          "Si todos los defectos son encontrados y arreglados, el sistema aún puede ser no usable.",
+          "Si durante el testing no se encuentran defectos, esto no es una prueba de correctitud.",
+          "Un pequeño número de módulos usualmente contienen la mayoría de los defectos descubiertos.",
+          "Las pruebas deben revisarse regularmente y nuevas y diferentes pruebas deben escribirse para encontrar nuevos defectos."
+        ],
+        "correctIndex": 3
+      },
+      {
+        "type": "multiple_choice",
+        "text": "¿Qué actividad del proceso de Testing incluye la documentación del estado de cada caso de prueba y el reporte de defectos como artefactos?",
+        "options": [
+          "Test Implementation",
+          "Test Execution",
+          "Test Completion",
+          "Test Monitoring and Control"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "type": "multiple_choice",
+        "text": "¿Qué es un error?",
+        "options": [
+          "Acción incorrecta realizada en el programa por un humano",
+          "Imperfección que puede producir comportamientos erróneos en el programa",
+          "Un comportamiento erróneo o no esperado con respecto a los requisitos",
+          "El no cumplimiento de las pruebas generadas por el tester"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "written",
+        "text": "¿Qué principio del testing indica que no se pueden encontrar todos los defectos?",
+        "correctAnswer": "La prueba muestra la presencia de defectos"
+      },
+      {
+        "type": "development",
+        "text": "Explique brevemente en qué consiste el análisis dinámico mediante sampling.",
+        "keywords": [
+          "sampling",
+          "muestra",
+          "intervalo",
+          "ejecución",
+          "pila"
+        ]
+      },
+      {
+        "type": "development",
+        "text": "Describa cómo funciona el algoritmo de cross-over en pruebas generadas automáticamente con algoritmos genéticos.",
+        "keywords": [
+          "cruce",
+          "padres",
+          "mitad",
+          "genes",
+          "hijo"
+        ]
+      },
+      {
+        "type": "development",
+        "text": "Indique la diferencia entre confirmation bias y cognitive bias en el contexto del testing.",
+        "keywords": [
+          "confirmation",
+          "cognitive",
+          "creencia",
+          "errores",
+          "aceptar"
+        ]
+      }
+    ]
+  }
